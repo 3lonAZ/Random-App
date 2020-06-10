@@ -1,0 +1,12 @@
+C:\Users\MuradPc\source\repos\Random App\Random App\obj\Debug\Random App.csprojAssemblyReference.cache
+C:\Users\MuradPc\source\repos\Random App\Random App\obj\Debug\Random_App.Form1.resources
+C:\Users\MuradPc\source\repos\Random App\Random App\obj\Debug\Random_App.Items_UserControl.resources
+C:\Users\MuradPc\source\repos\Random App\Random App\obj\Debug\Random_App.Number_UserControl.resources
+C:\Users\MuradPc\source\repos\Random App\Random App\obj\Debug\Random App.csproj.GenerateResource.cache
+C:\Users\MuradPc\source\repos\Random App\Random App\obj\Debug\Random App.csproj.CoreCompileInputs.cache
+C:\Users\MuradPc\source\repos\Random App\Random App\obj\Debug\RandomApp.Properties.Resources.resources
+C:\Users\MuradPc\source\repos\Random App\Random App\bin\Debug\Random App.exe.config
+C:\Users\MuradPc\source\repos\Random App\Random App\bin\Debug\Random App.exe
+C:\Users\MuradPc\source\repos\Random App\Random App\bin\Debug\Random App.pdb
+C:\Users\MuradPc\source\repos\Random App\Random App\obj\Debug\Random App.exe
+C:\Users\MuradPc\source\repos\Random App\Random App\obj\Debug\Random App.pdb
